@@ -1,3 +1,4 @@
 # Sensor_Data
 
-Advantages and Disadvantages of Each Sensor Input for Differrent Events for an Autonomous vehicle
+US dataset is collected for cut-in event. By OpenCV package video is made into frames, 
+Next- building keras model under tensorflow background. 
