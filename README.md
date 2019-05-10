@@ -1,7 +1,5 @@
 # Cut-in_Data
 
-US dataset is collected for cut-in event. By OpenCV package, video is made into frames, 
+PT.py for Lane detection, it creates the CSV lane edge coordinates points.
 
-Next- building keras model under tensorflow background. 
-
-The CSV is according to the video
+yolo_video.py for detection of vehicle and creates the CSV with bounding box coordinates values.
